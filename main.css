@@ -1,0 +1,36 @@
+html, body, div, p, ul, h1 {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 100%;
+    font: inherit;
+}
+body {
+    background-color: #0000aa;
+    background-image: url(pure-nature-landscape-single-tree-in-green-field-picjumbo-com.jpg);
+    color: #444444;
+    font-family: Helvetica, arial, sans-serif;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 50px;
+    font-weight: bold
+}
+p {
+    text-align: center;
+    font-size: 14px;
+}
+.nav{
+    background-color: #aff;
+}
+.nav ul {
+    text-align: center;
+    padding: 10px;
+}
+.nav li {
+    display: inline;
+    padding: 15px;
+    font-weight: normal;
+}
